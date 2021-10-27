@@ -1,0 +1,240 @@
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_0_3329098.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-10-19T12:56:29.000000Z
+    title           : COGORNO GOLF EDIT-10-19-19 ECG YT Post - Anthony Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 00:55:16.25, start: 0.000000, bitrate: 2474 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 2336 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-10-19T12:56:29.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 129 kb/s (default)
+    Metadata:
+      creation_time   : 2019-10-19T12:56:29.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_1_3294993.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-10-13T17:58:27.000000Z
+    title           : COGORNO GOLF EDIT - 10-01-19 Stu Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 00:49:02.66, start: 0.000000, bitrate: 2003 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 1865 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-10-13T17:58:27.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2019-10-13T17:58:27.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_2_3256106.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-10-04T15:58:14.000000Z
+    title           : COGORNO GOLF EDIT - 10-05-19 ECG  YT Post -  Pat P. Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 00:47:29.02, start: 0.000000, bitrate: 2585 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 2447 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-10-04T15:58:14.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 129 kb/s (default)
+    Metadata:
+      creation_time   : 2019-10-04T15:58:14.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_3_2941746.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-07-31T20:23:54.000000Z
+    title           : COGORNO GOLF - 07-07-19 Amitpal Nat Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 00:59:13.92, start: 0.000000, bitrate: 4752 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4615 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-07-31T20:23:54.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2019-07-31T20:23:54.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_4_2944757.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-08-01T14:47:03.000000Z
+    title           : COGORNO GOLF EDIT - An Easy Way For Seniors To Get More Distance - George Jones Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 01:03:20.47, start: 0.000000, bitrate: 2292 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 2155 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-08-01T14:47:03.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      creation_time   : 2019-08-01T14:47:03.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_5_3016893.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-08-16T09:58:12.000000Z
+    title           : COGORNO GOLF EDIT-08-17-19 ECG YT Post - Andrew Hentrich Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 01:07:17.57, start: 0.000000, bitrate: 1938 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 1802 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-08-16T09:58:12.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      creation_time   : 2019-08-16T09:58:12.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_6_3112245.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-09-07T01:32:48.000000Z
+    title           : COGORNO GOLF EDIT-09-07-19 Bill Pencek Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 01:03:36.21, start: 0.000000, bitrate: 2582 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 2445 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-09-07T01:32:48.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2019-09-07T01:32:48.000000Z
+      handler_name    : SoundHandler
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Live-Golf-Lessons_7_3185998.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-09-20T15:42:02.000000Z
+    title           : COGORNO GOLF EDIT-09-21-19 John Parham Lesson
+    artist          : Mary Lengle
+    encoder         : HandBrake 1.2.2 2019022300
+  Duration: 00:41:10.25, start: 0.000000, bitrate: 2771 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 2633 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2019-09-20T15:42:02.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 129 kb/s (default)
+    Metadata:
+      creation_time   : 2019-09-20T15:42:02.000000Z
+      handler_name    : SoundHandler

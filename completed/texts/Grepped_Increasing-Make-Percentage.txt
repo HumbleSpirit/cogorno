@@ -1,0 +1,4 @@
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 6883 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 60k tbc (default)
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 3994 kb/s, 23.98 fps, 23.98 tbr, 24k tbn, 48k tbc (default)
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 11873 kb/s, 23.98 fps, 23.98 tbr, 24k tbn, 48k tbc (default)
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 7999 kb/s, 23.98 fps, 23.98 tbr, 24k tbn, 48k tbc (default)
